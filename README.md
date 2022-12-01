@@ -1,3 +1,3 @@
 # Skills-App 
 
-Skills App With Database in SQLite3
+Skills App With Database SQLite3
